@@ -29,8 +29,6 @@ from pandas import read_csv
 class Fridge:
     """An object of the fridge.
 
-    text to type here.
-
     Parameters
     ----------
     T_START : int or float, optional
